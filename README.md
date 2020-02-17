@@ -3,11 +3,11 @@
 
 Simple command-line interface for the xxtea algorithm string encryption and decryption.
 
- **Based on [hillu](https://github.com/hillu/go-xxtea "hillu's") ** library, that uses newest implementation [updated](http://www.movable-type.co.uk/scripts/xxtea.pdf "updated") by *Needham and Wheeler* as in https://en.wikipedia.org/wiki/XXTEA 
+ **Based on** [hillu](https://github.com/hillu/go-xxtea "hillu's")  library, that uses newest implementation [updated](http://www.movable-type.co.uk/scripts/xxtea.pdf "updated") by *Needham and Wheeler* as in https://en.wikipedia.org/wiki/XXTEA 
 
-**Fully compatible** to use for encryption / decryption evaluation of data of the**  [ boseji xxtea Cryptography library for Arduino](https://github.com/boseji/xxtea-lib "xxtea Cryptography library for Arduino")** on Windows PC
+**Fully compatible** to use for encryption / decryption evaluation of data of the  [ boseji xxtea Cryptography library for Arduino](https://github.com/boseji/xxtea-lib "xxtea Cryptography library for Arduino") on Windows PC
 
-**WARNING! **Do not use outdated implementation https://www.tools4noobs.com/online_tools/xxtea_encrypt/ to evaluate this tool
+**WARNING!** Do not use outdated implementation https://www.tools4noobs.com/online_tools/xxtea_encrypt/ to evaluate this tool
 
 ------------
 # Usage
