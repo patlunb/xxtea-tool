@@ -48,7 +48,9 @@ Other than that,  as with the encryption, providing  `-input ` and  `-key` argum
 ### Other arguments
 
 `-s` : Silent mode, all information messages will be suspended. Tool will output only a result of conversion (encryption or decryption). Usefull for batch operations or chaining with external executable program for the pipeline.  Used as an additional option within normal encryption / decryption operation.
+
 `-v` : Prints program version
+
 `-h` : Prints help screen with all of the available options
 
 ### License
